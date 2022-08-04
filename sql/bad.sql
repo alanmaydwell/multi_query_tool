@@ -1,0 +1,4 @@
+select
+moose
+from
+dual
